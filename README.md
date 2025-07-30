@@ -26,7 +26,7 @@ Implementing an online voting system brings several key benefits to the democrat
 Installation
 
 -Clone the repository
--git clone https://github.com/yourusername/online-voting-system.git
+-git clone https://github.com/peeyush2004/Online-Voting-System-Project.git
 -cd online-voting-system
 
 
